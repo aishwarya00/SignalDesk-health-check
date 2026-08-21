@@ -1,9 +1,9 @@
 # SignalDesk Prompt Health Check
 A lightweight Streamlit decision tool for evaluating AI workflow health after a prompt change.
 
-#Track Chosen: Track A, Fictional Domain Packet.
+# Track Chosen: Track A, Fictional Domain Packet.
 
-#What I Built
+## What I Built
 A lightweight Streamlit decision support tool that compares workflow health before and after the August 4 prompt change. A teammate selects a workflow and source and receives a status of Promising, Investigate, or Inconclusive, with the observed metric movement, caveats, and a recommended next action.
 
 #Who It Is For
