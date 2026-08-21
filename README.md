@@ -1,6 +1,8 @@
 # SignalDesk Prompt Health Check
 A lightweight Streamlit decision tool for evaluating AI workflow health after a prompt change.
 
+# Streamlit App: https://signaldesk-health-check-app.streamlit.app/
+
 # Track Chosen: Track A, Fictional Domain Packet.
 
 ## What I Built
